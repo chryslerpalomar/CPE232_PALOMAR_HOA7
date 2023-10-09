@@ -14,6 +14,8 @@
 [file_servers]
 192.168.56.108 ansible_python_interpreter=/usr/bin/python3
 
+[workstations]
+192.168.56.109 ansible_python_interpreter=/usr/bin/python3
 
 #192.168.56.108 ansible_python_interpreter=/usr/bin/python3
 #192.168.56.109 ansible_python_interpreter=/usr/bin/python3
